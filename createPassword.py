@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-"""3-1"""
+"""Example tool for creating a good password"""
 from __future__ import print_function
 from builtins import input # pip install future --upgrade
 from datetime import timedelta
